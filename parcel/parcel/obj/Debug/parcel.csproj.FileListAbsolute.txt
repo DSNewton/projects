@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\parcel\parcel\obj\Debug\parcel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\parcel\parcel\obj\Debug\parcel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\parcel\parcel\bin\Debug\parcel.exe.config
+C:\Users\User\source\repos\parcel\parcel\bin\Debug\parcel.exe
+C:\Users\User\source\repos\parcel\parcel\bin\Debug\parcel.pdb
+C:\Users\User\source\repos\parcel\parcel\obj\Debug\parcel.exe
+C:\Users\User\source\repos\parcel\parcel\obj\Debug\parcel.pdb
